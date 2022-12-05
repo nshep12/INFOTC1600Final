@@ -16,6 +16,7 @@ The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_
 
 - [Page 1: About Me](Page1.md)
 - [Page 2: Some Thoughts](Page2.md)
-- [Page 3: Mizzou](Page3.md)
-<!-- - [Page 4: Good Boy](Page4.md)
-- [Page 5: Fun Pictures](Page5.md) -->
+<!-- - [Page 3: Mizzou](Page3.md)
+- [Page 4: Good Boy](Page4.md)
+- [Page 5: Fun Pictures](Page5.md)
+ -->
