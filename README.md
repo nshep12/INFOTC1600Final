@@ -1,8 +1,8 @@
 # FinalProject
-**Title:** Tutorial Change title
-**Author:** Nick Sheppard
-**Summary:** Enter summary of tutorial here
-**Description:** Enter description of the target audience for the tutorial here
+*Title: Tutorial Change title
+*Author: Nick Sheppard
+*Summary: Enter summary of tutorial here
+*Description: Enter description of the target audience for the tutorial here
 
 INFOTC - Final Project
 
