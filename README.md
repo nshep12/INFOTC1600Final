@@ -1,8 +1,8 @@
 # INFOTC1600 - FinalProject
-* Title: Tutorial Change title
+* Title: How to write your first program
 * Author: Nick Sheppard
-* Summary: Enter summary of tutorial here
-* Description: Enter description of the target audience for the tutorial here
+* Summary: This tutorial shows the user the most fundamental basics of writing the first few programs and demonstrating different aspects of code.
+* Description: *How to write your first program* targets users with no prior code experience or knowledge. 
 
 ## Final Project
 
