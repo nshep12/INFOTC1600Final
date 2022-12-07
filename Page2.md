@@ -1,5 +1,4 @@
-# FinalProject
-INFOTC1600 - Final Project
+# INFOTC1600 FinalProject
 # Page 2 [Home](README.md)
 ## Some other thoughts on programming
 
