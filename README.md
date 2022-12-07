@@ -14,7 +14,7 @@
 The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_page) for the tutorial on GitHub. Other markdown pages are to be linked to from the README.md. Provide navigation forward and backward when linking between markdown documents. Also, if useful, create links to navigate within a markdown document.
 
 
-- [Page 1: About Me](Page1.md)
+- [Page 1: Hello World](Page1.md)
 - [Page 2: Additional Thoughts](Page2.md)
 <!-- - [Page 3: Mizzou](Page3.md)
 - [Page 4: Good Boy](Page4.md)
