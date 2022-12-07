@@ -1,5 +1,5 @@
-# MidtermProject
-INFOTEC1000-Midterm Project
+# FinalProject
+INFOTC1600 - Final Project
 # Page 1 [Page 2](Page2.md) [Home](README.md)
 ## Developing your first program
 
