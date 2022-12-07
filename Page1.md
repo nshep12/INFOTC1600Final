@@ -1,7 +1,7 @@
 # MidtermProject
 INFOTEC1000-Midterm Project
 # Page 1 [Page 2](Page2.md) [Home](README.md)
-## A little about me
+## Developing your first program
 
 1. My name is Nick Sheppard and I am a student and MU.
 2. I have a lot of hobbies outside of being on my computer all the time and I need to stay active to keep my mind healthy.
