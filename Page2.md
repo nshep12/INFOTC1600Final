@@ -1,6 +1,6 @@
 # FinalProject
 INFOTC1600 - Final Project
-# Page 2 [Page 3](Page3.md) [Home](README.md)
+# Page 2 [Home](README.md)
 ## Some other thoughts on programming
 
 **[StackOverflow](https://stackoverflow.com/)** has become one of my favorite resources in learning how to design and write code. Some of the things I see on there make 
