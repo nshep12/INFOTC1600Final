@@ -1,5 +1,4 @@
-# FinalProject
-INFOTC1600 - Final Project
+# INFOTC1600 FinalProject
 # Page 1 [Page 2](Page2.md) [Home](README.md)
 ## Developing your first program
 
