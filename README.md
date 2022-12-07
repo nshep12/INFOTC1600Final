@@ -1,4 +1,4 @@
-# INFOTC1600 - FinalProject
+# INFOTC1600 FinalProject
 * Title: *How to write your first program*
 * Author: Nick Sheppard
 * Summary: This tutorial shows the user the most fundamental basics of writing the first few programs and demonstrating different aspects of code.
