@@ -25,9 +25,9 @@ public SalesLevel GetSalesLevel(){
             return salesLevel;
         }
 ```        
-This code was part of a project I submitted this week in 2040. It is pretty simple logic to get specific Sales Levels to print out based on the information given. 
-I was able to write this without thinking about it but I wrote it one time with no errors and it ran perfectly on the first try. I have never experienced this 
-in programming so it was a big moment for me. 
+This bit of code above was part of a project I submitted in 2040. It is pretty simple logic to get specific Sales Levels from a document to print out based on the information given. 
+I was able to write this without thinking about it but I wrote it once with no errors and it ran perfectly on the first try. I have never experienced this 
+in programming and it was a big moment for me. 
 
 I also enjoyed learning about **FizzBuzz**:
 ```
